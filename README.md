@@ -1,8 +1,6 @@
 # Rocketseat - NLW Copa :soccer::rocket:
 
-```
 ![ignite](Ignite_simbol.png)
-```
 
 ### Trilha Ignite :fire:
 
